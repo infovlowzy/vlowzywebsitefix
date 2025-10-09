@@ -16,8 +16,8 @@ export const Testimonials = () => {
       rating: 5,
     },
     {
-      name: "Martin Guan",
-      role: "Director, Edubridge Indonesia",
+      name: "Kevin Setiawan",
+      role: "Marketing Manager, Multilabel ID",
       content: "Awalnya kualahan handle banyak inquiry customer, apalagi banyak yang ga serius, dengan adanya chatbot dengan lead qualificaiton dan summarization, admin bisa fokus pada calon client yang memiliki potensi tinggi.",
       rating: 5,
     },

@@ -70,7 +70,7 @@ export const Testimonials = () => {
           <div className="flex flex-wrap justify-center items-center gap-12 opacity-50 grayscale hover:grayscale-0 transition-all">
             <div className="text-2xl font-bold text-foreground">Genesys</div>
             <div className="text-2xl font-bold text-foreground">Sekawan Samudra</div>
-            <div className="text-2xl font-bold text-foreground">Edubridge</div>
+            <div className="text-2xl font-bold text-foreground">Multilabel</div>
             <div className="text-2xl font-bold text-foreground">Dan Masih Banyak Lainya</div>
           </div>
         </div>

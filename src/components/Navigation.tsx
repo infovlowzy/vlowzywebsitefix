@@ -174,7 +174,7 @@ export const Navigation = () => {
           <a href="/" className="flex items-center gap-2">
             <img
               src="/logo.png"
-              alt="troll"
+              alt="vlowzy"
               className="h-8 w-auto md:h-9 lg:h-10"
               loading="eager"
               decoding="async"
